@@ -44,9 +44,9 @@ Test Accuracy:  0.5400
 AUC:            0.58
 ```
 
-- 🔹 El modelo tiene dificultades para generalizar.
-- 🔹 Ajustes como learning rate, momentum y número de épocas no han mejorado sustancialmente el rendimiento.
-- 🔹 La AUC cercana a 0.5 sugiere que el modelo apenas supera al azar.
+-  El modelo tiene dificultades para generalizar.
+-  Ajustes como learning rate, momentum y número de épocas no han mejorado sustancialmente el rendimiento.
+-  La AUC cercana a 0.5 sugiere que el modelo apenas supera al azar.
 
 ---
 
